@@ -1,0 +1,3 @@
+what happens when you initialize a repository? why do you need to do it?
+
+creates the .git folder with all the metadata, to start saving versions of your files

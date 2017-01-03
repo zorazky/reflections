@@ -1,3 +1,15 @@
 what happens when you initialize a repository? why do you need to do it?
 
 creates the .git folder with all the metadata, to start saving versions of your files
+
+------
+
+how is the stagging area different from the working directory and the repository? What value do you think it offers?
+
+is like a temporal are to add files before commit, to add several files in one commit
+
+-----
+
+just a test
+
+-----

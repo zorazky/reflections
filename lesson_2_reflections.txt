@@ -13,3 +13,9 @@ is like a temporal are to add files before commit, to add several files in one c
 just a test
 
 -----
+
+how can you use the staging area to make sure you have one commit per logical change?
+
+by comparing between staging and work directory using "git diff" or between staged and last commit with  "git diff --staged"
+
+-----

@@ -4,7 +4,7 @@ creates the .git folder with all the metadata, to start saving versions of your 
 
 ------
 
-how is the stagging area different from the working directory and the repository? What value do you think it offers?
+how is the staging area different from the working directory and the repository? What value do you think it offers?
 
 is like a temporal are to add files before commit, to add several files in one commit
 
@@ -17,5 +17,11 @@ just a test
 how can you use the staging area to make sure you have one commit per logical change?
 
 by comparing between staging and work directory using "git diff" or between staged and last commit with  "git diff --staged"
+
+-----
+
+what are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you want to test a new feature but you are not really sure, maybe try other languages or tests
 
 -----

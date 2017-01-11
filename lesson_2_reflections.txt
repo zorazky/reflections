@@ -25,3 +25,9 @@ what are some situations when branches would be helpful in keeping your history 
 when you want to test a new feature but you are not really sure, maybe try other languages or tests
 
 -----
+
+how do the diagrams help you visualize the branch structure?
+
+using the mental model of a tree is easy to understand how is the interaction between master and branches
+
+-----

@@ -34,6 +34,6 @@ using the mental model of a tree is easy to understand how is the interaction be
 
 what is the result of merging two branches  together? why do we represent it in the diagram the way we do?
 
-we combine new branch with master branch with the help of master branch commit when new branch was created. To visually show how the merch works
+we combine new branch with master branch with the help of master branch commit when new branch was created. To visually show how the merging works
 
 -----

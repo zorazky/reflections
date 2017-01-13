@@ -37,3 +37,9 @@ what is the result of merging two branches  together? why do we represent it in 
 we combine new branch with master branch with the help of master branch commit when new branch was created. To visually show how the merging works
 
 -----
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+in complex project automatic save a lot of time manually helps when conflict between branches.
+
+-----

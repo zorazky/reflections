@@ -13,3 +13,8 @@ fork is to take the code from someone else and make changes on your own without 
 and branches is useful to do features or changes that will be added to the original code after.
 
 ------
+
+what is the benefit of having a copy of the last known state of the remote stored locally?
+let you work offline
+
+-----

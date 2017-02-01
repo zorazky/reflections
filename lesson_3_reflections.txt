@@ -23,3 +23,9 @@ how would you collaborate without using Git or GitHub? What would be easier, and
 I guess kinda having 2 sites the live site and the test site to update code there, the hard part would be having an updated file with all team cahnges
 
 -----
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+when other members are working on the same feature or code section
+
+----
